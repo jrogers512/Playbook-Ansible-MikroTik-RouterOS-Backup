@@ -1,3 +1,8 @@
+# Línguas
+Traduções alternativas podem ser encontradas nos links abaixo.
+- [English](README-en.md)
+
+# Introduction
 Playbook de Backup de Routeadores RouterOS MikroTik
 
 Automatizando o processo de backup de roteadores Mikrotik com playbooks Ansible e o Cron do Linux.
@@ -6,6 +11,7 @@ A parte mais legal desse playbook é que ao final do playbook, a última task do
 
 Para que no momento do push, o Git use a chave privada para se autenticar no repositório faça a seguinte configuração:
 
+# Configuração SSH/Git
 Uma dica!! Antes de tudo, crie o repositório e logo após clone o mesmo no servidor.
 ----------
 1. Gerar as chaves ssh
